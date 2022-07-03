@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and machine learning.
 - 🌱 I’m currently learning Python libraries for data science
 - 💞️ I’m looking to collaborate on any data science project.
-- 📫 How to reach me https://stackexchange.com/users/24579246/romka
+- 📫 How to reach me https://stackoverflow.com/users/18484638/romka
 
 <!---
 Romchico/Romchico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
